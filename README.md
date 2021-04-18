@@ -33,5 +33,3 @@ To run newman tests, from the root directory run:
 ```cd Presentation/Postman```
 
 ```docker-compose build --no-cache --progress plain```
-
-If this was a live system, these would be accompanied by the full suite of integration and unit tests, e2e tests for the frontend, all running within a CI/CD pipeline.

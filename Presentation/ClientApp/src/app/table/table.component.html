@@ -23,7 +23,6 @@
     <td mat-cell *matCellDef="let element"> {{element.scanDuration.totalMilliseconds}} </td>
   </ng-container>
 
-
   <ng-container matColumnDef="lastTimeScanned">
     <th mat-header-cell *matHeaderCellDef> Last Time Scanned </th>
     <td mat-cell *matCellDef="let element">  {{element.lastTimeScanned | date:'h:mm a z'}} </td>

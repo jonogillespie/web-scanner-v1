@@ -1,0 +1,12 @@
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/bin/Debug/net5.0/Domain.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Domain/obj/Debug/net5.0/Domain.pdb

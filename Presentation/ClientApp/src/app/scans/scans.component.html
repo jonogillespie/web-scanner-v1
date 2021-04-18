@@ -1,0 +1,16 @@
+<mat-card>
+  <mat-card-title>Latest Scans</mat-card-title>
+  <button class="refresh-button" (click)="onRefreshButtonClick($event)" mat-mini-fab color="primary">
+    <mat-icon>refresh</mat-icon>
+  </button>
+  <div>
+    <h1 *ngIf="latestScanNotFound">
+      No results are available at this time, please wait until a scan has completed and try again.
+    </h1>
+  </div>
+  <div *ngIf="dataSource">
+    <app-table [dataSource]="dataSource.scans"></app-table>
+    <app-summary [scanCycle] = "dataSource.scanCycle"></app-summary>
+  </div>
+
+</mat-card>

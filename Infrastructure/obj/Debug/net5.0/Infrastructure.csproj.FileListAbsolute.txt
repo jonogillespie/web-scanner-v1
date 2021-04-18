@@ -1,0 +1,17 @@
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.csprojAssemblyReference.cache
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Application.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Domain.dll
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Application.pdb
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/bin/Debug/net5.0/Domain.pdb
+/Users/jonathangillespie/RiderProjects/web-scanner/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete

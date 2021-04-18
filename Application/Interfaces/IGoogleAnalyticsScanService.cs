@@ -6,6 +6,6 @@ namespace Application.Interfaces
 {
     public interface IGoogleAnalyticsScanService
     {
-        public Task<GoogleAnalyticsScanResponse> Scan(Uri uri, Guid websiteId);
+        Task<GoogleAnalyticsScanResponse> Scan(Uri uri, Guid websiteId);
     }
 }

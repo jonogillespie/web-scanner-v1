@@ -1,6 +1,6 @@
 # web-scanner-v1
 
-Web scanner is built using a Clean Architecture and CQRS architecture.
+Web scanner is built using a Clean Architecture and CQRS approach.
 
 # Domain
 
